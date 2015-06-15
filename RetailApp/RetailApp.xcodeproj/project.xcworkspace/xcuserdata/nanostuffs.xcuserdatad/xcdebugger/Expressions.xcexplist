@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "RetailApp_swift.OurMenuVC.(getMenu (RetailApp_swift.OurMenuVC) -&gt; () -&gt; ()).(closure #1):OurMenuVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(__NSCFDictionary *)d1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
